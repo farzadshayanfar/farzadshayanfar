@@ -1,4 +1,4 @@
-<img src="./github_readme_files/farzad_shayanfar_github_profile_photo.jpg" width="135" height="135"/>
+<img src="./github_readme_files/farzad_shayanfar_github_profile_photo.jpg" width="110" height="125"/>
 
 ## About me:
 
