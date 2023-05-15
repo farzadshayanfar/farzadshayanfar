@@ -7,3 +7,7 @@ I'm a freelance programmer who has been doing student projects or worked as a re
 I accept remote job offers.
 
 📧 farzad.shayanfar@hotmail.com
+
+</br>
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadshayanfar&layout=compact&card_width=250&langs_count=6&theme=radical">
