@@ -2,15 +2,17 @@
 
 ## 🐸 About me:
 
-I'm a self-taught freelance programmer who has been doing student projects or worked as a research assistant in different research labarotaries since 2017. Since 2021, I have started getting into 3D model designing and game development and I'm really passionate about it.
+Hi there! I'm a self-taught freelance programmer who has been working on student projects and research assistantships in different labs since 2017. I'm really passionate about my work, and I love learning new things. In 2021, I started getting into 3D model designing and game development, and I'm having a blast! I'm always looking for new challenges, and I'm excited to see what the future holds.
 
-I accept remote job offers.
+I'm also open to remote work offers. I have a dedicated workspace at home, and I'm confident that I can be just as productive working remotely as I am in an office setting. I'm also a quick learner, and I'm always eager to take on new challenges.
+
+If you're looking for a talented and experienced freelance programmer, I would love to hear from you. Please feel free to contact me at your earliest convenience.
 
 📧 farzad.shayanfar@hotmail.com
 </br>
 
 ## ⚒️ Current Projects:
-+ ***[TextChaser](https://github.com/farzadshayanfar/textchaser)*** A general purpose UI OCR application.
++ ***[TextChaser](https://github.com/farzadshayanfar/textchaser)*** A general purpose OCR application.
 + ***[NodiumPy](https://github.com/farzadshayanfar/nodiumpy)*** A node based image processing application.
 </br>
 
