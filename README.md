@@ -4,7 +4,7 @@
 
 Hi there! I'm a freelance programmer who has been working on student projects and research assistantships in different labs since 2017. I'm really passionate about my work, and I love learning new things. I'm always looking for new challenges, and I'm excited to see what the future holds.
 
-I'm also open to remote work offers. If you're looking for a talented and experienced freelance programmer, I would love to hear from you. Good thing about hiring me is that since I live in a far-off corner of the world, I can be hired full-time with a monthly pay of 500 USD.
+I'm also open to remote work offers. If you're looking for a talented and experienced freelance programmer, I would love to hear from you.
 
 email: farzad.shayanfar@hotmail.com
 
