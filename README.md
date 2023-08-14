@@ -15,7 +15,6 @@ email: farzad.shayanfar@hotmail.com
 + Desktop software development projects that involves machine learning
 
 ## ⚒️ Current projects:
-+ ***[Augment3D]()*** A Unity package for augmented rendereings of 3D objects
 + ***[TextChaser](https://github.com/farzadshayanfar/textchaser)*** A general purpose OCR application.
 + ***[NodiumPy](https://github.com/farzadshayanfar/nodiumpy)*** A node based image processing application.
 
